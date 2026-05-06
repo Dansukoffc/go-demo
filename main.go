@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	"example.com/devices/electronic"
-	"example.com/devices/computing"
-	"example.com/devices/phone"
+	"github.com/Dansukoffc/go-devices/electronic"
+	"github.com/Dansukoffc/go-devices/computing"
+	"github.com/Dansukoffc/go-devices/phone"
 )
 
 func clearScreen() {
